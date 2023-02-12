@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+UUID=${UUID:-'a74945ff-69ec-4c09-8786-e8af88dfd21d'}
 
 NEZHA_SERVER=${NEZHA_SERVER}
 NEZHA_PORT=${NEZHA_PORT}
